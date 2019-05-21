@@ -6,5 +6,5 @@
             queueConnectionTestTime="00:00:05"
             requestQueueMax="1000" />
       </asp>
-   <system.webServer>
-<configuration>
+   </system.webServer>
+</configuration>
